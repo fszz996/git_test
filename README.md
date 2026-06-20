@@ -1,1 +1,1 @@
-This is the first ripositry for learning git and github
+This is myfirst ripositry for learning git and github
