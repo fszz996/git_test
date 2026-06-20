@@ -1,0 +1,1 @@
+This is the first ripositry for learning git and github
